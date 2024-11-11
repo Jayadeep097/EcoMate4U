@@ -4,7 +4,8 @@ import 'screens/marketplace_screen.dart';
 import 'screens/waste_management_screen.dart';
 import 'screens/energy_calculator_screen.dart';
 import 'screens/fashion_tracker_screen.dart';
-import 'screens/community_screen.dart';
+import 'screens/community_screflutter create .
+en.dart';
 import 'screens/profile_screen.dart';
 
 void main() async {
