@@ -1,0 +1,33 @@
+name: ecomate4u
+description: "EcoMate4U - Carbon Footprint Tracker and Sustainability App."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.7.0
+  firebase_auth: ^5.3.2
+  cloud_firestore: ^5.4.5
+  google_maps_flutter: ^2.2.0
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.1
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Uncomment if you have any assets like images or JSON files to include
+  # assets:
+  #   - assets/images/
+
